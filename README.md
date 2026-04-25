@@ -3,6 +3,5 @@
  <hr>
  <a>Thanks for Visiting</a>
  <hr>
- 
  View my latest repos
  And more
