@@ -1,11 +1,11 @@
 #include<iostream>
 using namespace std;
 
-bool search(int arr[], int size, int key) {
+bool search(int arr[], int size, int Chabi) {
 
     for( int i = 0; i<size; i++ ) {
 
-        if( arr[i] == key) {
+        if( arr[i] == Chabi) {
             return 1;
         }
 
