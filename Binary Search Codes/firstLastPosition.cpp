@@ -11,10 +11,10 @@ int firstOcc(vector<int>& arr, int n, int key) {
             ans = mid;
             e = mid - 1;
         }
-        else if(key > arr[mid]) {//Right me jao
+        else if(key > arr[mid]) {
             s = mid + 1;
         }
-        else if(key < arr[mid]) {//left me jao
+        else if(key < arr[mid]) {
             e = mid - 1;
         }
 
