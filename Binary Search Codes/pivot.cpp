@@ -1,7 +1,7 @@
 #include<iostream> 
 using namespace std;
 
-int getPivot(int arr[], int n) {
+int getpivot(int arr[], int n) {
 
     int s = 0;
     int e = n-1;
@@ -23,5 +23,5 @@ int getPivot(int arr[], int n) {
 
 int main() {
     int arr[5] = {1, 3, 8, 10, 17};
-    cout << "Pivot is " << getPivot(arr, 5) << endl;
+    cout << "Pivot is " << getpivot(arr, 5) << endl;
 }
