@@ -2,7 +2,7 @@
 using namespace std;
 
 //Function Signature
-void printCounting(int num) {
+void printcounting(int num) {
 
 //    cout << n << endl;
     //Function Body 
@@ -18,7 +18,7 @@ int main() {
     cin >> n;
 
     //function Call
-    printCounting(n);
+    printcounting(n);
 
 
     return 0;
