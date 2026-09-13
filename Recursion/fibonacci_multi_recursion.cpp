@@ -18,9 +18,9 @@ int main()
 {
     int n;
     cout<<"type: ";
-    cin>>n;  
-
+    cin>>n; 
+    
     cout<<"nth term is: "<<fibo(n);
-
+    
     return 0;
 }
