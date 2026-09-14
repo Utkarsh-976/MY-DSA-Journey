@@ -9,7 +9,6 @@ void print1_to_n(int i, int n){
     print1_to_n(i+1,n);
     
 }
-
 int main(){
     int n;
     cout<<"type:";
