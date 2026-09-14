@@ -17,7 +17,6 @@ int main()
     // string s = "MADAM";
     string s;
     cin >> s;
-
     cout << pal(s, 0);
 
     return 0;
