@@ -14,6 +14,7 @@ int main()
         {
             char ch = 'A'+i+j-2;
             cout<<ch<< " ";
+            
             j = j + 1;
         }
         cout << endl;
