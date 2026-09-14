@@ -11,7 +11,6 @@ int main()
     while (row <= n)
     {
         int col = 1;
-
         while (col <= row)
         {
             cout << (row - col + 1) << " ";
