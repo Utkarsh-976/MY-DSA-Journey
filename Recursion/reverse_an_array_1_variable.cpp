@@ -14,6 +14,7 @@ int main()
 {
     int n;
     cout<<"type: ";
+    
     cin>>n;
     int arr[n];
 
