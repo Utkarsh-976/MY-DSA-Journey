@@ -13,7 +13,6 @@ int main(){
         sum = sum + i;
         i = i + 1;
     }
-
     cout<<"The sum is: "<<sum;
 
     return 0;
