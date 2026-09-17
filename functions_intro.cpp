@@ -6,6 +6,7 @@ int main() {
     // pow(a,b)
 
     int a , b;
+    
 
     cin >> a >> b;
 
