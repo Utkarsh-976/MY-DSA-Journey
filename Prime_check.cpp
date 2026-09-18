@@ -9,6 +9,7 @@ int main()
     cin >> n;
 
     while (i < n)
+        
     {
         if (n % i == 0)
         {
