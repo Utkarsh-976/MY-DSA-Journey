@@ -8,8 +8,8 @@ int main(){
     cout<<"Namaste Duniyaa";
     cout<<"\n";
 
-    int a = 'a';
-    cout<<a<<endl;
+    // int a = 'a';
+    // cout<<a<<endl;
 
     char ch = 98;
     cout<<ch<<endl;
