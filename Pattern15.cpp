@@ -15,6 +15,7 @@ int main()
 
         while (space)
         {
+            
             cout << " ";
             space--;
         }
