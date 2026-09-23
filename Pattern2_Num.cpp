@@ -16,6 +16,7 @@ int main(){
             cout<<i;
             j = j + 1;
         }
+        
         cout<<endl;
 
         i = i + 1;
