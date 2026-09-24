@@ -16,6 +16,7 @@ int main()
         {
             cout << "*";
             column = column + 1;
+        
         }
         cout << endl;
         row = row + 1;
