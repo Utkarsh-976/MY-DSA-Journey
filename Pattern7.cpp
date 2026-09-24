@@ -19,6 +19,7 @@ int main()
             value = value + 1;
             col = col + 1;
         }
+        
         cout << endl;
         row = row + 1;
     }
