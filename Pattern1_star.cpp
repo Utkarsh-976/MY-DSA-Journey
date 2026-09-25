@@ -18,6 +18,7 @@ int main()
             cout << "*";
             j = j + 1;
         }
+        
         cout << endl;
         i = i + 1;
     }
