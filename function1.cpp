@@ -20,8 +20,7 @@ int main(){
 
     int answer = power(a,b);
 
-    cout<<"The ans is: "<<answer<<endl; 
-    
+    cout<<"The ans is: "<<answer<<endl;     
 
     return 0;
 }
