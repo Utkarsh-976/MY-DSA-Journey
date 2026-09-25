@@ -19,6 +19,7 @@ int main()
         {
             cout << "prime for " << i << endl;
         }
+        
         i = i + 1;
     }
 
