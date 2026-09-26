@@ -18,6 +18,7 @@ int main()
             column = column + 1;
         
         }
+        
         cout << endl;
         row = row + 1;
     }
