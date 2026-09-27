@@ -20,6 +20,7 @@ int main()
         
         cout << endl;
         row = row + 1;
+        
     }
 
     return 0;
