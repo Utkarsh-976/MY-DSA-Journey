@@ -15,13 +15,12 @@ int main()
         cin>>arr[i];
         mapp[arr[i]]++;
     }
-
     // map<int,int>mapp;
     // for (int i = 0; i < n; i++)
     // {
     //     mapp[arr[i]]++;
     // }
-
+    
 //    for (auto it: mapp)
 //     {
 //         cout<<it.first<<"->"<<it.second<<endl;
