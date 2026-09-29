@@ -32,6 +32,7 @@ int main(){
             break;
 
             default: cout<<"Enter right case? "<<endl;
+        
     }
 
 
