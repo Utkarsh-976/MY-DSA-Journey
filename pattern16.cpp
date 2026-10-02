@@ -27,6 +27,7 @@ int main()
         }
 
         int start = row -1;
+        
         while(start){
             cout<<start;
             start--;
