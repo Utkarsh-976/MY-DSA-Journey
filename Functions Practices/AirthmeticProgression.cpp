@@ -5,7 +5,6 @@ int AP(int n){
     int ap =  (3 * n + 7);
     return ap;
 }
-
 int main(){
 
     int n1;
