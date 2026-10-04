@@ -23,6 +23,7 @@ int main()
 
         n = n / 10;
         i++;
+        
     }
 
     cout << ans;
