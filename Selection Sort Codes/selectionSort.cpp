@@ -8,8 +8,7 @@ void selectionSort(vector<int>& arr, int n)
         for(int j = i+1; j<n; j++) {
             
             if(arr[j] < arr[minIndex]) 
-                minIndex = j;
-            
+                minIndex = j;            
         }
         swap(arr[minIndex], arr[i]);
     }
