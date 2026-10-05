@@ -17,6 +17,7 @@ int main()
             ifprime = 0;
             break;
         }
+        
     }
 
     if (ifprime == 0)
