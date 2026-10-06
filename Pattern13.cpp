@@ -16,6 +16,7 @@ int main()
             cout << start << " ";
             start = start + 1;
             j = j + 1;
+            
         }
         
         cout << endl;
