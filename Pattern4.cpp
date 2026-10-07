@@ -14,8 +14,7 @@ int main(){
         while(j<=n){
             cout<<count<<" ";
             count = count + 1;
-            j = j+1;
-            
+            j = j+1;            
         }        
         cout<<endl;
         i = i+1;
